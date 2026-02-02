@@ -8,3 +8,12 @@ v. 2/1/2026
 """
 
 print("add")
+# import list from the list file
+from Lab3_xenzonz_list import camping_items
+
+#add items using append
+camping_items.append("compass")
+camping_items.append("battery bank")
+camping_items.append("cookware")
+camping_items.append("shotgun")
+camping_items.append("camp chair")

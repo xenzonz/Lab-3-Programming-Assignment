@@ -7,7 +7,7 @@ iv. No starter code
 v. 2/1/2026
 """
 
-print("hello world")
+# print("hello world")
 
 # list of items for camping
 
@@ -23,3 +23,7 @@ camping_items = [
     "map",
     "clothes"
 ]
+
+print(f"Total number of items: {len(camping_items)}")
+print(f"List sorted alphabetically:")
+print(sorted(camping_items))

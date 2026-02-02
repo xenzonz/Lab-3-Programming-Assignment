@@ -24,6 +24,8 @@ camping_items = [
     "clothes"
 ]
 
-print(f"Total number of items: {len(camping_items)}")
-print(f"List sorted alphabetically:")
-print(sorted(camping_items))
+# main guard 
+if __name__ == "__main__": 
+    print(f"Total number of items: {len(camping_items)}")
+    print(f"List sorted alphabetically:")
+    print(sorted(camping_items))

@@ -8,3 +8,6 @@ v. 2/1/2026
 """
 
 print("replace")
+
+from Lab3_xenzonz_add import camping_items
+

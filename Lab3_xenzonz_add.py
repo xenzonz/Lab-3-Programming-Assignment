@@ -7,15 +7,17 @@ iv. No starter code
 v. 2/1/2026
 """
 
-print("add")
 # import list from the list file
 from Lab3_xenzonz_list import camping_items
 
-#add items using append
+# add items using append
 camping_items.append("compass")
 camping_items.append("battery bank")
 camping_items.append("cookware")
 camping_items.append("shotgun")
 camping_items.append("camp chair")
 
-print(f"{camping_items}")
+# main guard
+if __name__ == "__main__":
+    print(f"Added items and list reversed alphabetically:")
+    print(sorted(camping_items, reverse=True))

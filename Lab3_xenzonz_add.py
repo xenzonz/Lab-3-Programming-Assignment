@@ -2,7 +2,7 @@
 Docstring for Lab3_xenzonz_add
 i. LAB 3: Working with a list
 ii. Sam Cocquyt
-iii. Create a list with 10 items, print the count, and print the list alphabetically
+iii. Import list, append 5 more items, and print the list reversed alphabetically
 iv. No starter code
 v. 2/1/2026
 """

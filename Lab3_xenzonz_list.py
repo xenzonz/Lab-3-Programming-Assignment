@@ -8,3 +8,16 @@ v. 2/1/2026
 """
 
 print("hello world")
+
+camping_items = [
+    "tent",
+    "sleeping bag",
+    "stove",
+    "water bottle",
+    "flashlight",
+    "first aid kit",
+    "batteries",
+    "phone",
+    "map",
+    "clothes"
+]

@@ -9,6 +9,8 @@ v. 2/1/2026
 
 print("hello world")
 
+# list of items for camping
+
 camping_items = [
     "tent",
     "sleeping bag",

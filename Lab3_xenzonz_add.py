@@ -17,3 +17,5 @@ camping_items.append("battery bank")
 camping_items.append("cookware")
 camping_items.append("shotgun")
 camping_items.append("camp chair")
+
+print(f"{camping_items}")
